@@ -7,7 +7,8 @@ along with creating new issues on the go.
 
 <!-- ![](https://www.filedn.com/lMrnNUG92dHJKVkjrgbb0dL/vira-demo-1.gif) -->
 <!-- ![](vira-demo.gif) -->
-![](https://www.accutune.ca/vira-demo.gif)
+<!-- ![](https://www.accutune.ca/vira-demo.gif) -->
+![](https://raw.githubusercontent.com/n0v1c3/vira/VIRA-136/vira-demo.gif)
 
 ## Installation
 
