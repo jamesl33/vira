@@ -5,7 +5,8 @@ Vim JIRA interface plugin.
 Stay inside vim while following and updating Jira issues
 along with creating new issues on the go.
 
-<img src="https://filedn.com/lMrnNUG92dHJKVkjrgbb0dL/vira-demo-1.gif"/>
+<!-- ![](https://filedn.com/lMrnNUG92dHJKVkjrgbb0dL/vira-demo-1.gif) -->
+![](vira-demo.gif)
 
 ## Installation
 
