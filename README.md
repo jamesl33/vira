@@ -10,7 +10,7 @@ along with creating new issues on the go.
 <!-- ![](https://www.accutune.ca/vira-demo.gif) -->
 ![](https://raw.githubusercontent.com/n0v1c3/vira/VIRA-136/vira-demo.gif)
 ![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
-![](https://imgur.com/0qQFY7h)
+![Imgur](https://i.imgur.com/0qQFY7h.gifv)
 
 ## Installation
 
